@@ -1,2 +1,2 @@
 # Eat The Spot
-This is a dynamic recipes collection
+This is a dynamic collection of recipes
